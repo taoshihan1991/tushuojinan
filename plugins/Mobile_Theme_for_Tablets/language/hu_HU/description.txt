@@ -1,0 +1,1 @@
+Lehetővé teszi a mobil téma alapértelmezett alkalmazását táblagépek esetén.

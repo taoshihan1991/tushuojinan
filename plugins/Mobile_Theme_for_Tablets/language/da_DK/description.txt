@@ -1,0 +1,1 @@
+Gør det muligt at benytte mobilt tema som standard på tabletter.

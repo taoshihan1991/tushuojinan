@@ -1,0 +1,19 @@
+/* fix for IE */
+
+ul#fullTagCloud { height: 400px; }
+		
+* html #menubar, * html BODY#theAdminPage #menubar { height: 100%; }
+* html #menubar UL LI { float: left; width: 100%; }
+* html #menubar UL LI A { height: 1%; }
+
+/*
+FORM#quickconnect {
+  width: 15em;
+  padding: 0;
+  border-left: none;
+  border-right: none;
+}
+
+FORM#quickconnect LABEL {
+  white-space: nowrap;
+}*/

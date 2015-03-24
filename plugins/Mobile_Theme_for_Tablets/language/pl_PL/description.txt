@@ -1,0 +1,1 @@
+Pozwala domyślnie używać motywu dla urządzeń przenośnych na tabletach

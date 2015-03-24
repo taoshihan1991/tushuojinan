@@ -1,0 +1,1 @@
+Allow to apply the mobile theme by default for tablets

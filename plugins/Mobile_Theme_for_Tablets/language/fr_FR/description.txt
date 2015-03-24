@@ -1,0 +1,1 @@
+Permet d'appliquer le thème mobile par défaut sur les tablettes

@@ -1,0 +1,1 @@
+Umožní upřednostnit mobilní šablonu pro výchozí zobrazení galerie na tabletech
